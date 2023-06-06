@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.16)  6 JUN 2023 11:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.16)  6 JUN 2023 12:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -770,45 +770,45 @@ Package caption Info: End \AtBeginDocument code.
 [1
 
 {C:/Users/caw00024/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 116.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 117.
  (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-c:/Users/caw00024/Documents/GitHub/VSCode_workshop/latex/main.tex:163: Missing $ inserted.
+c:/Users/caw00024/Documents/GitHub/VSCode_workshop/latex/main.tex:168: Missing $ inserted.
 <inserted text> 
                 $
-l.163 ...s://nbviewer.org/github/kylebarron/stata_
+l.168 ...s://nbviewer.org/github/kylebarron/stata_
                                                   kernel/blob/master/example...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 163.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 168.
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 163.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 168.
  (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 163.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 168.
  (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-c:/Users/caw00024/Documents/GitHub/VSCode_workshop/latex/main.tex:164: Missing $ inserted.
+c:/Users/caw00024/Documents/GitHub/VSCode_workshop/latex/main.tex:169: Missing $ inserted.
 <inserted text> 
                 $
-l.164 
+l.169 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (25.70409pt too wide) in paragraph at lines 163--164
+Overfull \hbox (25.70409pt too wide) in paragraph at lines 168--169
 []\T1/cmr/m/n/12 https://nbviewer.org/github/kylebarron/stata$[]\OML/cmm/m/it/12 ernel=blob=master=examples=Example:ipynb$ 
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 166.
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 171.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -835,19 +835,19 @@ Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  388FB2877BF84A5AB9AED6FC8395D0E2;512.
 
-Package lastpage Warning: Rerun to get the references right on input line 166.
+Package lastpage Warning: Rerun to get the references right on input line 171.
 
  ) 
 Here is how much of TeX's memory you used:
  26112 strings out of 476360
  482100 string characters out of 5786609
- 1860993 words of memory out of 5000000
+ 1861993 words of memory out of 5000000
  46074 multiletter control sequences out of 15000+600000
  523346 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,80p,598b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,80p,598b,508s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\caw00024\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\caw00024\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\caw00024\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\caw00024\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\caw00024\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\caw00024\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\caw00024\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/Users/caw00024/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/caw00024/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
-Output written on main.pdf (2 pages, 94677 bytes).
+Output written on main.pdf (2 pages, 94702 bytes).
 PDF statistics:
  245 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)

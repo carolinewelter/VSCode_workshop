@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1686065567 "c:/Users/caw00024/Documents/GitHub/VSCode_workshop/latex/main.tex" "main.pdf" "main" 1686065569 2
+["pdflatex"] 1686068150 "c:/Users/caw00024/Documents/GitHub/VSCode_workshop/latex/main.tex" "main.pdf" "main" 1686068152 2
   "C:/Users/caw00024/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1684256082 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/caw00024/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1684256095 31952 d50c2c4b96b8177264cda07df0251e55 ""
   "C:/Users/caw00024/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk" 1684256096 49100 f84a5cc46db88026d2aa70cace132efd ""
@@ -188,10 +188,10 @@
   "C:/Users/caw00024/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1667242266 32329 5d201ab4b4c773e7c876c2a052b07be3 ""
   "C:/Users/caw00024/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/caw00024/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/caw00024/Documents/GitHub/VSCode_workshop/latex/main.tex" 1686064692 3863 071ba5504150bd2be7ec003e88c6923c ""
-  "main.aux" 1686065568 1093 cb954fa2dea1fd5d3fb9610c0e0955f6 "pdflatex"
-  "main.out" 1686065568 512 388fb2877bf84a5ab9aed6fc8395d0e2 "pdflatex"
-  "main.tex" 1686064692 3863 071ba5504150bd2be7ec003e88c6923c ""
+  "c:/Users/caw00024/Documents/GitHub/VSCode_workshop/latex/main.tex" 1686068135 3964 98aca95cc7a6dc9bc0255cda8a2796e2 ""
+  "main.aux" 1686068151 1093 cb954fa2dea1fd5d3fb9610c0e0955f6 "pdflatex"
+  "main.out" 1686068151 512 388fb2877bf84a5ab9aed6fc8395d0e2 "pdflatex"
+  "main.tex" 1686068135 3964 98aca95cc7a6dc9bc0255cda8a2796e2 ""
   "mcode.sty" 1684956824 10952 084eba7d2f3720ddbd64db19db520ab5 ""
   (generated)
   "main.aux"
