@@ -74,8 +74,6 @@
 
 \section{Download Programs}
 
-TEST 
-
 \begin{itemize}
   \item VS Code: https://code.visualstudio.com/download
   \item Anaconda: https://www.anaconda.com/download 
@@ -83,7 +81,7 @@ TEST
   \item Github Desktop: Sign up with your mix account https://github.com/ and download the Desktop version: https://desktop.github.com/
   \item Git: https://git-scm.com/downloads
   \item Git for large files: https://git-lfs.com/
-  \item Miktex: https://miktex.org/download 
+  \item Miktex: https://miktex.org/download . Once installed, check for updates and install all the updates available. You need to do this only one time after installation.
 \end{itemize}
 
 \section{Install VS Code extensions}
@@ -120,8 +118,6 @@ Follow the steps:
 
   conda install -c conda-forge stata_kernel
 
-  python -m stata_kernel.install
-
 \end{verbatim}
   
 
@@ -144,11 +140,20 @@ Find the path to Anaconda, like this one:
     # include this one, but first check what your stata path is in your 
     laptop and change accordingly
 
+    save and close the file
   \end{verbatim}
   
-  save and close the file
-
   
+
+\begin{itemize}
+  \item \textbf{Go to the Anaconda Prompt and run:} 
+\end{itemize}
+
+  \begin{verbatim}
+
+  python -m stata_kernel.install
+
+  \end{verbatim}
   
 \begin{itemize}  
   \item \textbf{In VS Code:} 
@@ -163,11 +168,6 @@ Find the path to Anaconda, like this one:
       \item Run code
     \end{itemize}
 \end{itemize}
-
-
-Example of how to use stata in the Jupiter Notebook:
-
-https://nbviewer.org/github/kylebarron/stata_kernel/blob/master/examples/Example.ipynb
 
 
 \end{document}
